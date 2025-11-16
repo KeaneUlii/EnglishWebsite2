@@ -1,0 +1,52 @@
+body
+{
+    background-image: url(lang3_1.jpg.png);
+    background-repeat: no-repeat;
+    background-color: #5f6ec5;
+}
+.eden
+{
+    margin-left: 55%;
+    font-family: Oswald;
+    font-size: 27px;
+}
+.dva
+{
+    margin-left: 55%;
+    font-family: Oswald;
+    font-size: 15px;
+}
+.tri
+{
+    padding-top: 5px;
+    padding-left: 75%;
+    padding-right: 75%;
+    padding-bottom: 5px;
+    margin-right: 65%;
+}
+.SignIn
+{
+    background-color: #131c3e;
+    border: none;
+    color: white;
+    padding: 4px 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.SignUp
+{
+    background-color: #131c3e;
+    border: none;
+    color: white;
+    padding: 4px 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
