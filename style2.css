@@ -1,0 +1,57 @@
+body
+{
+    background-image: url(lang3_1.jpg.png);
+    background-repeat: no-repeat;
+    background-color: #5f6ec5;
+}
+.eden
+{
+    margin-left: 55%;
+    font-size: 55px;
+    font-family: Oswald;
+}
+.dva
+{
+    font-size: 30px;
+    margin-left: 55%;
+    font-family: Oswald;
+}
+.tri
+{
+    font-size: 30px;
+    margin-left: 55%;
+    font-family: Oswald;
+}
+.cetiri
+{
+    margin-left: 55%;
+    font-family: Oswald;
+}
+.SignIn
+{
+    background-color: #131c3e;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 55%;
+}
+.GoBack
+{
+    background-color: #131c3e;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 55%;
+}
